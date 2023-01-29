@@ -1,0 +1,61 @@
+Altium Designer Pick and Place Locations
+D:\PCB_Projects\HK32F030MF4P6_Header_Board\!Released Files\Step 6 - Source Files\V1.0\Project Outputs for HK32F030MF4P6_Header_Board\Pick Place\Pick Place for HK32F030MF4P6_Header_Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/01/23
+Time:       21:22
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                              Layer       Footprint                         Center-X(mm) Center-Y(mm) Rotation Description                                                                                           
+X1         16MHz                                TopLayer    HC-49S_SMD                        36.6000      36.9500      0        "SMT Crystal"                                                                                         
+VR1        10K                                  TopLayer    POT_SMD_3                         49.0000      66.0000      270      ""                                                                                                    
+R12        1K                                   BottomLayer RES_1206                          32.0000      54.9000      180      "Resistor SMD 1206"                                                                                   
+R11        10K                                  BottomLayer RES_1206                          93.8000      55.1000      0        "Resistor SMD 1206"                                                                                   
+R10        10K                                  BottomLayer RES_1206                          93.8000      45.5000      0        "Resistor SMD 1206"                                                                                   
+R9         1K                                   BottomLayer RES_1206                          48.5750      38.8000      90       "Resistor SMD 1206"                                                                                   
+R8         100                                  BottomLayer RES_1206                          54.2500      34.9750      90       "Resistor SMD 1206"                                                                                   
+R7         1K                                   TopLayer    RES_1206                          42.8000      67.2000      180      "Resistor SMD 1206"                                                                                   
+R6         1K                                   BottomLayer RES_1206                          55.9000      42.8000      0        "Resistor SMD 1206"                                                                                   
+R5         1K                                   BottomLayer RES_1206                          55.9000      50.8000      0        "Resistor SMD 1206"                                                                                   
+R4         1K                                   BottomLayer RES_1206                          55.9000      46.8000      0        "Resistor SMD 1206"                                                                                   
+R3         10K                                  BottomLayer RES_1206                          50.8000      65.5000      90       "Resistor SMD 1206"                                                                                   
+R2         10K                                  BottomLayer RES_1206                          47.8500      65.5000      90       "Resistor SMD 1206"                                                                                   
+R1         10K                                  BottomLayer RES_1206                          93.8000      35.5000      0        "Resistor SMD 1206"                                                                                   
+Q1         8050                                 BottomLayer SOT-23-3_2.9X2.4MM_P0.95MM        49.5500      33.9750      270      "Bipolar (BJT) Transistor NPN 25V 1.5A 100MHz 625mW Surface Mount SOT-23"                             
+LED3       RED                                  TopLayer    LED_0603_RED                      55.9002      42.8000      180      "LED 0603 RED SMD"                                                                                    
+LED1       YELLOW                               TopLayer    LED_0603_YELLOW                   55.9002      50.8000      180      "LED 0603 YELLOW SMD"                                                                                 
+LED2       BLUE                                 TopLayer    LED_0603_BLUE                     55.9002      46.8000      180      "LED 0603 BLUE SMD"                                                                                   
+KEY_RT     "Tactile 2PIN 6X3.5mm H4.57mm (SMD)" TopLayer    SWPBS_SPST_6X3X5                  92.4000      36.8000      270      "Tactile Switch SPST-NO Top Actuated Surface Mount"                                                   
+KEY2       "Tactile 2PIN 6X3.5mm H4.57mm (SMD)" TopLayer    SWPBS_SPST_6X3X5                  92.4000      56.8000      270      "Tactile Switch SPST-NO Top Actuated Surface Mount"                                                   
+KEY1       "Tactile 2PIN 6X3.5mm H4.57mm (SMD)" TopLayer    SWPBS_SPST_6X3X5                  92.4000      46.8000      270      "Tactile Switch SPST-NO Top Actuated Surface Mount"                                                   
+J3         HDRM_2X10                            TopLayer    HDR_M_2X10                        71.6350      61.8000      0        "CONN, HEADER, Male, pitch: 2.54mm, 20POS"                                                            
+J2         HDRM_2X10                            TopLayer    HDR_M_2X10                        71.8100      31.8000      0        "CONN, HEADER, Male, pitch: 2.54mm, 20POS"                                                            
+J1         JMPHDR2PIN                           TopLayer    JP_2_RED                          40.8300      55.1250      0        "JUMPER, HEADER 2PIN"                                                                                 
+IC5        CH340G                               TopLayer    SOIC127P600X180-16N               40.4500      46.8000      0        "USB Interface Integrated Circuit"                                                                    
+IC4        LD1117-3.3V                          TopLayer    SOT-223-4_6.5X7MM_P2.3MM          33.2760      60.8000      180      "Linear Voltage Regulator IC  1 Output  800mA SOT-223"                                                
+IC3        W25Q64JV                             BottomLayer SOIC-8_5.28X5.28MM_P1.27MM        81.9000      46.8000      90       "FLASH - NOR Memory IC 64Mb (8M x 8) SPI - Quad I/O 133MHz  8-SOIC"                                   
+IC2        AT24C02                              BottomLayer SOIC-8_4.9X3.9MM_P1.27MM          49.3000      59.1500      0        "EEPROM Memory IC 2Kb (128 x 8) I²C 1MHz 550ns (1.7~5.5V)  8-SOIC"                                    
+IC1        HK32F030MF4P6                        TopLayer    TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL 71.7000      46.8000      0        ""                                                                                                    
+D1         GREEN                                TopLayer    LED_0603_GREEN                    32.1000      54.9000      180      "LED 0603 GREEN SMD"                                                                                  
+CN2        USB3100-30-A                         TopLayer    USB3100-30-A                      30.1250      46.8000      270      "USB Connector Type Micro B 2.0 SMD Reverse Mount"                                                    
+CN1        HDR1X5                               TopLayer    HDR_M_1X5                         39.9000      26.9000      0        "CONN, HEADER, Male, pitch: 2.54mm, 5POS"                                                             
+C15        10uF                                 BottomLayer CAP_1206                          74.8000      40.6500      180      "Capacitor SMD 1206 10V"                                                                              
+C14        10uF                                 BottomLayer CAP_1206                          40.4750      58.1000      0        "Capacitor SMD 1206 10V"                                                                              
+C13        100nF                                TopLayer    CAP_1206                          40.5000      60.8000      180      "Capacitor SMD 1206 10V"                                                                              
+C12        10uF                                 BottomLayer CAP_1206                          30.6500      42.7500      0        "Capacitor SMD 1206 10V"                                                                              
+C11        100nF                                BottomLayer CAP_1206                          44.7000      49.7750      270      "Capacitor SMD 1206 10V"                                                                              
+C10        100nF                                BottomLayer CAP_1206                          41.8000      49.7500      270      "Capacitor SMD 1206 10V"                                                                              
+C9         20pF                                 TopLayer    CAP_1206                          33.3000      32.6750      0        "Capacitor SMD 1206 10V"                                                                              
+C8         20pF                                 TopLayer    CAP_1206                          40.1000      32.7750      180      "Capacitor SMD 1206 10V"                                                                              
+C7         100nF                                BottomLayer CAP_1206                          93.9500      58.0000      180      "Capacitor SMD 1206 10V"                                                                              
+C6         100nF                                BottomLayer CAP_1206                          93.9500      48.3000      180      "Capacitor SMD 1206 10V"                                                                              
+C5         100nF                                TopLayer    CAP_1206                          48.9000      62.6000      180      "Capacitor SMD 1206 10V"                                                                              
+C4         100nF                                BottomLayer CAP_1206                          86.5000      46.8000      270      "Capacitor SMD 1206 10V"                                                                              
+C3         100nF                                BottomLayer CAP_1206                          49.2000      54.9000      180      "Capacitor SMD 1206 10V"                                                                              
+C2         100nF                                BottomLayer CAP_1206                          74.8250      43.5000      180      "Capacitor SMD 1206 10V"                                                                              
+C1         100nF                                BottomLayer CAP_1206                          93.9500      38.3000      180      "Capacitor SMD 1206 10V"                                                                              
+BUZZER     "BZ 3V"                              TopLayer    BUZ_9MM                           51.9150      30.8450      180      "Buzzers Transducer, Externally Driven Magnetic 3V 80mA 2.73kHz 85dB @ 3V, 10cm Through Hole PC Pins" 

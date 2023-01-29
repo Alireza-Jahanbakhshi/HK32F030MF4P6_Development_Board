@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: HK32F030MF4P6_Header_Board.GBR   1/28/2023  8:50:58 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                L1                                      
+.GBL                L2                                      
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM3                Manufacturing Notes                     
+.GM4                Licence                                 
+.GM28               Board Outline                           
+.GM29               Mechanical Drawing                      
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------

@@ -1,0 +1,5 @@
+The difference between HK32F030M and HK32F0301M:
+HK32F030M main frequency is 32M, RAM is 2K, 16 IO ports, no STANDBY mode
+HK32F0301M main frequency is 48M, RAM is 4K, 18 IO ports, STANDBY mode with 20nA
+
+There is no difference anywhere else.
